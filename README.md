@@ -1,8 +1,8 @@
 # Madlib Java Project
 
 ## Credits:
-Henry Baldwin, Willian Barney, Zoe Leclair, Santosh Ramanathan, Kirubashinilakshana Senthilnathan, and Reed Stringham
-Donations ARE accepeted on Roblox Pls Donate if you donate to Bitybooce, thank you.
+### Donations ARE accepeted on Roblox Pls Donate if you donate to Bitybooce, thank you.
+Henry Baldwin, Willian Barney, Zoe Leclair, Santosh Ramanathan, Kirubashinilakshana Senthilnathan, and Reed Stringham.
 
 ## How it works
 In this program we will allow you to input words that follow our intructions to make a variety of different stories including: sci-fi, horror, comedy, and mystery.
