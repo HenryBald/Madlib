@@ -1,7 +1,7 @@
 # Madlib Java Project
 
 ## How it works
-In this program we will allow you to input words that follow our intructions to make a funny story, and if you don't find it funny then you should never do anything with computer programming again.
+In this program we will allow you to input words that follow our intructions to make a variety of different stories including: sci-fi, horror, comedy, and mystery. Donations ARE accepted.
 
 ## Our approach
 Our team was extremely exited to begin work on this project, and we quickly decided to split up and work on different parts of the program, while still communicating throughout the process.
