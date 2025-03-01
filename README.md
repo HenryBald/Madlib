@@ -3,7 +3,7 @@
 ## Credits:
 Henry Baldwin, William Barney, Zoe Leclair, Santosh Ramanathan, Kirubashinilakshana Senthilnathan, and Reed Stringham.
 
-## How It Works: // no need we not in requirements swap with features.
+## How It Works:
 In this program, we allow you to input words that follow our instructions to create a variety of different stories, including sci-fi, horror, comedy, and mystery.
 
 ## Our Approach:
@@ -11,4 +11,3 @@ Our team was excited to begin work on this project. We decided to split up and w
 
 ## Challenges We Faced:
 We encountered some difficulties using classes, so we made the decision to avoid them. However, this turned out to be a good choice as we found alternative solutions while brainstorming ideas within the group. Additionally, we faced challenges communicating the correct prompts to the user for input at the right time. 
-// this isnt even a issue bruh
