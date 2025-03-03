@@ -2,7 +2,7 @@
 
 ## Credits:
 Henry Baldwin, William Barney, Zoe Leclair, Santosh Ramanathan, Kirubashinilakshana Senthilnathan, and Reed Stringham.
-
+If you would like to support us, please donate to Bitybooce on Roblox Pls Donate.
 ## How It Works:
 In this program, we allow you to input words that follow our instructions to create a variety of different stories, including sci-fi, horror, comedy, and mystery.
 
