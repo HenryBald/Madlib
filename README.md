@@ -1,6 +1,4 @@
 # Madlib Java Project
-
- https://codehs.com/sandbox/id/madlib-NPLUHY?collaborate=-OJtHAmxGo1f2ipCBdmq
  
 ## Credits:
 Henry ( user input ), William ( storing user input into arrays ), Zoe ( story creator ) , Santhosh ( storing user input into arrays ), Kirubashinilakshana ( story creator ), and Reed ( user input ).
