@@ -1,5 +1,7 @@
 # Madlib Java Project
 
+ https://codehs.com/sandbox/id/madlib-NPLUHY?collaborate=-OJtHAmxGo1f2ipCBdmq
+ 
 ## Credits:
 Henry ( user input ), William ( storing user input into arrays ), Zoe ( story creator ) , Santhosh ( storing user input into arrays ), Kirubashinilakshana ( story creator ), and Reed ( user input ).
 
@@ -17,4 +19,5 @@ Our team was excited to begin work on this project. We decided to split up and w
 * Another issue that was faced was placing the user input into and array and calling it when needed. This was really hard to do but using the help in the java documentation in codeHS we learned that there is a .get() method which helped us grab the arrays and the specific one needed.
 
 
- https://codehs.com/sandbox/id/madlib-NPLUHY?collaborate=-OJtHAmxGo1f2ipCBdmq
+
+
