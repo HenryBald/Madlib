@@ -4,7 +4,7 @@
 
 [Source Code](https://github.com/HenryBald/Madlib/blob/62c9f9efabcf7642ca9d1db9edd43f12613c24c5/src/Madlib.java)
 
-Donations ARE accepted at Bitybooce on Roblox Pls Donate
+
 ## Credits:
 Henry ( user input ), William ( storing user input into arrays ), Zoe ( story creator ) , Santhosh ( storing user input into arrays ), Kirubashinilakshana ( story creator ), and Reed ( user input ).😊🚀✨
 
