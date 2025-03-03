@@ -18,8 +18,5 @@ Our team was excited to begin work on this project. We decided to split up and w
 
 * Additionally, we faced challenges communicating the correct prompts to the user for input at the right time. This is because in some spots it did not make sense to ask a user input leading it to be tricky to find the correct spot in a story that would make sense if it was changed.
 
-* Another issue that was faced was placing the user input into and array and calling it when needed. This was really hard to do but using the help in the java documentation in codeHS we learned that there is a .get() method which helped us grab the arrays and the specific one needed.
-
-
-
+* Another issue that was faced was placing the user input into and array and calling it when needed. This was really hard to do but using the help in the java documentation in codeHS we learned that there is a .get() method which helped us grab the arrays and the specific one needed.😊🚀✨
 
