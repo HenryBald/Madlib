@@ -1,6 +1,6 @@
 # Madlib Java Project
 
-![Running App]()
+![Running App](https://github.com/HenryBald/Madlib/blob/main/src/Madlib.png)
 
 [Source Code](https://github.com/HenryBald/Madlib/blob/62c9f9efabcf7642ca9d1db9edd43f12613c24c5/src/Madlib.java)
  
