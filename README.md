@@ -2,7 +2,7 @@
 
 ![Running App](https://github.com/HenryBald/Madlib/blob/e23352fadde1e2d16bc0890ccd71d97c251933a5/src/madComedy.png)
 
-[Source Code](https://github.com/HenryBald/Madlib/blob/62c9f9efabcf7642ca9d1db9edd43f12613c24c5/src/Madlib.java)
+[Source Code](https://github.com/HenryBald/Madlib/blob/main/src/Madlib/Madlib.java)
 
 
 ## Credits:
