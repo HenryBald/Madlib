@@ -39,7 +39,7 @@ public class Madlib
         System.out.println("------------------------------------------------------------------------------------------");
         System.out.println("Credits:");
         System.out.println("Henry \nWilliam \nZoe \nSanthosh \nKirubashinilakshana \nReed ");
-        System.out.println("Donations ARE accepted at Bitybooce on Roblox Pls Donate");
+        System.out.println("Donations ARE accepted at Bitybooce on Roblox Pls Donate. (Minimum of a gagilliion... wait, thats alot, right?... dollars.)");
         System.out.println("------------------------------------------------------------------------------------------");
         
         while(loop) {
