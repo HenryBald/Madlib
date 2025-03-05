@@ -6,7 +6,11 @@
 
 
 ## Credits:
-Henry ( user input ), William ( storing user input into arrays ), Zoe ( story creator ) , Santhosh ( storing user input into arrays ), Kirubashinilakshana ( story creator ), and Reed ( user input ).
+* Henry ( user input )
+* William ( storing user input into arrays )
+* Zoe ( story creator ) , Santhosh ( storing user input into arrays )
+* Kirubashinilakshana ( story creator )
+* Reed ( user input ).
 
 Donations ARE accepted at Bitybooce on Roblox Pls Donate
 ## How It Works:
