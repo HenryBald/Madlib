@@ -88,7 +88,7 @@ public class Madlib
                 System.out.println("Tears filled her eyes as she realized who would dare do this: her father, " + name.get(1) + ", the man who'd never been there when she needed him. 'I knew you'd come back,' he said coldly.");
                 System.out.println("Enraged, " + name.get(0) + " called her friend " + name.get(2) + ", telling her it was time to take away what he loved most: his " + carT.get(0) + ". The plan was to smash it into a large " + lrgTh.get(0) + " and cover it with rotten " + food.get(0) + ".");
                 System.out.println("That night, she snuck into his house, grabbed the car keys, and drove the " + carT.get(0) + " to the fence.");
-                System.out.println("As she crashed it into the " + lrgTh.get(0) + ", and covered it with rotten "+ food.get(0) + " which so happened to be his favourite food she felt so "+ emo.get(1) +", she could only imagine her father's reaction when he discovered what she had done. Her father came by " + time.get(0) +" later and was very " + emo.get(3) + "." );
+                System.out.println("As she crashed it into the " + lrgTh.get(0) + ", and covered it with rotten "+ food.get(0) + " which so happened to be his favourite food she felt so "+ emo.get(1) +", she could only imagine her father's reaction when he discovered what she had done. Her father came by " + time.get(0) +" later and was very " + emo.get(2) + "." );
 
             } else if(story == 2) {
                 System.out.println("Horror has been selected");
