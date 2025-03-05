@@ -8,9 +8,10 @@
 ## Credits:
 * Henry ( user input )
 * William ( storing user input into arrays )
-* Zoe ( story creator ) , Santhosh ( storing user input into arrays )
+* Zoe ( story creator )
+* Santhosh ( storing user input into arrays )
 * Kirubashinilakshana ( story creator )
-* Reed ( user input ).
+* Reed ( user input )
 
 ## How It Works:
 In this program, we allow you to input words that follow our instructions to create a variety of different stories, including sci-fi, horror, comedy, and mystery. Also this is a command line program that has 15 user inputs per story.
