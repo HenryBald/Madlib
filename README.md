@@ -7,7 +7,7 @@
 
 ## Credits:
 * Henry ( user input )
-* William ( storing user input into arrays )
+# * William ( storing user input into arrays )
 * Zoe ( story creator )
 * Santhosh ( storing user input into arrays )
 * Kirubashinilakshana ( story creator )
